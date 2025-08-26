@@ -15,7 +15,7 @@ Lisper fetches **random secrets** from the [Secrets API](https://secrets-api.app
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR-USERNAME/Lisper.git
+git clone https://github.com/abdullahali785/Lipser.git
 cd Lisper
 
 npm install
