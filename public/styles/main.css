@@ -115,3 +115,22 @@ a {
   font-size: 24px;
   font-family: "Titan One", cursive;
 }
+
+.refresh-btn {
+  background: #5ddcff;
+  color: #212534;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 20px;
+  font-family: "Titan One", cursive;
+  font-size: 18px;
+  cursor: pointer;
+  margin-top: 1.5rem;
+  display: inline-block;
+  transition: background 0.3s ease;
+}
+
+.refresh-btn:hover {
+  background: #3c67e3;
+  color: white;
+}
